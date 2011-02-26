@@ -1,6 +1,6 @@
 Name: koffice-l10n-sv
 Version: 2.3.2
-Release: %mkrel 1
+Release: %mkrel 2
 Summary: Language files for KOffice Swedish
 Group: System/Internationalization
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
